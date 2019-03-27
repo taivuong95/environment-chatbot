@@ -1,0 +1,21 @@
+{
+  "name": "enviroment-chatbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm test"
+  },
+  "keywords": [
+    "messenger",
+    "webhook"
+  ],
+  "author": "TaiVuong <taivt95@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.20",
+    "request": "^2.88.0"
+  }
+}
